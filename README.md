@@ -1,6 +1,6 @@
 Service Manager
 =================
-Just a simple service manager to run services in sequence.
+Just a simple manager to run services in sequence.
 
 ## License
 
