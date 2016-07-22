@@ -1,5 +1,7 @@
 Service Manager
 =================
+[![Build Status](https://travis-ci.org/gabrielkoerich/service-manager.svg?branch=master)](https://travis-ci.org/gabrielkoerich/service-manager)
+
 Just a simple manager to run services in sequence.
 
 ## License
